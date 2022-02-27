@@ -1,0 +1,20 @@
+// 
+// profile.scss
+//
+
+.post-user-comment-box {
+    background-color: $gray-100;
+    margin: 0 -.75rem;
+    padding: 1rem;
+    margin-top: 20px;
+}
+
+.disabled {
+    pointer-events:none; 
+    opacity:0.6;        
+}
+
+.enabled{
+    pointer-events:all; 
+    opacity:0.6;
+}
